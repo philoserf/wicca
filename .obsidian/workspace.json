@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "47a43a8be88947ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "e885e81c16371453",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e000fca912c86466",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7ecc79b4c9d204ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "b24d7ba9fb8ddd4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad6e7a6e5252a96c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6f088735fee1318a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f0a77b28cf429366",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "3c483c1c688d01ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2112fb550dc51ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0fbf0dbb98f0de9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "41ccd1c9b2c2638a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0d885977e8980a98",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "91b427a6796c5969",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "e000fca912c86466",
+  "lastOpenFiles": [
+    "dailies/2024-01-22.md",
+    "dailies/2024-01-21.md",
+    "dailies/2024-01-19.md",
+    "dailies/2024-01-16.md",
+    "dailies/2024-01-15.md",
+    "dailies/2024-01-13.md",
+    "dailies/2024-01-12.md",
+    "Index.md",
+    "Water.md",
+    "Fire.md",
+    "Earth.md",
+    "Air.md",
+    "About.md",
+    "Samhain.md",
+    "Wheel of the Year.md",
+    "Yule.md",
+    "Ostara.md",
+    "Natural Cycles.md",
+    "Mår Ekkertsen.md",
+    "Mabon.md",
+    "Litha.md",
+    "Lamas.md",
+    "Imbolc.md",
+    "Idea List.md",
+    "Four Elements.md",
+    "Beltaine.md",
+    "assets/pdfs/Wiccan Wheel of the Year Printable Page Spells8.pdf",
+    "assets/pdfs/Wheel of the Year Printable .pdf",
+    "assets/pdfs/Wheel of the Year Journal Pages 2..pdf",
+    "assets/pdfs/Wheel of the Year Journal Pages 1.pdf",
+    "assets/pdfs/Litha .pdf",
+    "assets/pdfs/Celebrate Imbolc.pdf",
+    "assets/pdfs/Blue Moon.pdf",
+    "assets/pdfs/Beltane Dinner Planner.pdf",
+    "assets/pdfs/Autumn Day Planner.pdf",
+    "assets/images/A Cunning Man's Den.jpg",
+    "assets/images/Full Moon Circle.jpeg",
+    "assets/images/Yule.jpg",
+    "assets/images/When it is dark enough, you can see the starsjpg.jpg",
+    "assets/images/This World is but a Canvas to our Imagination.jpg",
+    "assets/images/samhain.jpg",
+    "assets/images/Ostara.jpg",
+    "assets/images/November.jpg",
+    "assets/images/mabon.jpg",
+    "assets/images/Lughnasadh.jpg",
+    "assets/pdfs"
+  ]
+}

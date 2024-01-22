@@ -1,0 +1,12 @@
+{
+  "userIllegalSymbols": [],
+  "ignoredFiles": {
+    "templates/Daily.md": null
+  },
+  "ignoreRegex": "",
+  "useFileOpenHook": true,
+  "useFileSaveHook": true,
+  "newHeadingStyle": "Prefix",
+  "replaceStyle": true,
+  "underlineString": "==="
+}
