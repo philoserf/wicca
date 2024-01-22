@@ -11,7 +11,7 @@
             "id": "e000fca912c86466",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -141,6 +141,9 @@
   },
   "active": "e000fca912c86466",
   "lastOpenFiles": [
+    "Brewfile.lock.json",
+    "Brewfile",
+    "taskfile.yml",
     "dailies/2024-01-22.md",
     "dailies/2024-01-21.md",
     "dailies/2024-01-19.md",
@@ -166,7 +169,6 @@
     "Imbolc.md",
     "Idea List.md",
     "Four Elements.md",
-    "Beltaine.md",
     "assets/pdfs/Wiccan Wheel of the Year Printable Page Spells8.pdf",
     "assets/pdfs/Wheel of the Year Printable .pdf",
     "assets/pdfs/Wheel of the Year Journal Pages 2..pdf",
@@ -175,7 +177,6 @@
     "assets/pdfs/Celebrate Imbolc.pdf",
     "assets/pdfs/Blue Moon.pdf",
     "assets/pdfs/Beltane Dinner Planner.pdf",
-    "assets/pdfs/Autumn Day Planner.pdf",
     "assets/images/A Cunning Man's Den.jpg",
     "assets/images/Full Moon Circle.jpeg",
     "assets/images/Yule.jpg",
@@ -185,7 +186,6 @@
     "assets/images/Ostara.jpg",
     "assets/images/November.jpg",
     "assets/images/mabon.jpg",
-    "assets/images/Lughnasadh.jpg",
-    "assets/pdfs"
+    "assets/images/Lughnasadh.jpg"
   ]
 }

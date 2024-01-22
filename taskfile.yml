@@ -1,0 +1,49 @@
+version: "3"
+
+tasks:
+  default:
+    cmds:
+      - task: update
+
+  update:
+    deps: [check]
+    cmds:
+      - git fetch --all
+      - git add .
+      - git commit -m "Updated $(date '+%Y%m%d')"
+      - git rebase origin/main
+      - git push
+      - git --no-pager log --stat -1
+
+  check:
+    deps: [prettier, markdown]
+
+  bootstrap:
+    sources: [Brewfile]
+    generates: [Brewfile.lock.json]
+    cmds:
+      - brew bundle
+
+  prettier:
+    deps: [bootstrap]
+    sources:
+      - "*.css"
+      - "*.js"
+      - "*.json"
+      - "*.md"
+      - "*.yaml"
+      - "*.yml"
+      - "**/*.md"
+    cmds:
+      - prettier --list-different --ignore-unknown --write .
+
+  markdown:
+    deps: [bootstrap]
+    sources: ["**/*.md", "*.md"]
+    cmds:
+      - markdownlint --fix .
+
+  dup-check:
+    deps: [bootstrap]
+    cmds:
+      - git ls-files | sort -f | uniq -di
