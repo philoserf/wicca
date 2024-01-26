@@ -4,5 +4,8 @@
   "obsidian-minimal-settings",
   "obsidian-hider",
   "obsidian-vault-changelog",
-  "templater-obsidian"
+  "templater-obsidian",
+  "canvas-mindmap",
+  "optimize-canvas-connections",
+  "omnisearch"
 ]

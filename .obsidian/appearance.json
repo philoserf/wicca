@@ -6,5 +6,6 @@
   "textFontFamily": "OpenDyslexic",
   "monospaceFontFamily": "OpenDyslexicMono",
   "baseFontSizeAction": false,
-  "baseFontSize": 20
+  "baseFontSize": 20,
+  "showViewHeader": false
 }
