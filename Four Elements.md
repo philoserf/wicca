@@ -1,7 +1,7 @@
 ---
 title: Four Elements
 date created: 2024-01-04
-date modified: 2024-01-21
+date modified: 2024-01-26
 ---
 
 # Four Elements
@@ -18,4 +18,4 @@ date modified: 2024-01-21
 
 ## Placeholder
 
-[[Spirit]]
+[[Ether]]
