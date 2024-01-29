@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailies/2024-01-26.md",
+                "file": "dailies/2024-01-29.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3c483c1c688d01ac",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dailies/2024-01-26.md",
+                "file": "dailies/2024-01-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dailies/2024-01-26.md",
+                "file": "dailies/2024-01-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailies/2024-01-26.md"
+                "file": "dailies/2024-01-29.md"
               }
             }
           }
@@ -151,12 +150,14 @@
   },
   "active": "e000fca912c86466",
   "lastOpenFiles": [
+    "Idea List.md",
+    "dailies/2024-01-29.md",
+    "dailies/2024-01-26.md",
     "dailies/2024-01-28.md",
     "dailies/2024-01-27.md",
     "2024-01-16.md",
     "Local.md",
     "practical.md",
-    "dailies/2024-01-26.md",
     "dailies/2024-01-25.md",
     "Welcome.md",
     "About.md",
@@ -177,8 +178,6 @@
     "review/MITStanford Style of Design.md",
     "journals/2023-11-02.md",
     "meta/Example Markdown Extensions.md",
-    "reference/Micro-Tasks.md",
-    "inbox/Grand Rapids Cocktail Bars.md",
     "reference",
     "journals",
     "private",
