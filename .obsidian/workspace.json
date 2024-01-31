@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailies/2024-01-29.md",
+                "file": "dailies/2024-01-31.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dailies/2024-01-29.md",
+                "file": "dailies/2024-01-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dailies/2024-01-29.md",
+                "file": "dailies/2024-01-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailies/2024-01-29.md"
+                "file": "dailies/2024-01-31.md"
               }
             }
           }
@@ -150,8 +150,10 @@
   },
   "active": "e000fca912c86466",
   "lastOpenFiles": [
-    "Idea List.md",
+    "Beltaine.md",
+    "dailies/2024-01-31.md",
     "dailies/2024-01-29.md",
+    "Idea List.md",
     "dailies/2024-01-26.md",
     "dailies/2024-01-28.md",
     "dailies/2024-01-27.md",
@@ -176,8 +178,6 @@
     "reference/Strategic Thinking Competencies.md",
     "inbox/Idea File.md",
     "review/MITStanford Style of Design.md",
-    "journals/2023-11-02.md",
-    "meta/Example Markdown Extensions.md",
     "reference",
     "journals",
     "private",
