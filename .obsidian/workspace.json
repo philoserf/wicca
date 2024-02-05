@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e885e81c16371453",
+        "id": "ac8446d0865e7d77",
         "type": "tabs",
         "children": [
           {
-            "id": "e000fca912c86466",
+            "id": "c869caeb0d824460",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -140,8 +140,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e000fca912c86466",
+  "active": "ad6e7a6e5252a96c",
   "lastOpenFiles": [
+    "dailies/2024.md",
     "dailies/2024-02-05.md",
     "dailies/2024-02-01.md",
     "dailies/2024-02-02.md",
@@ -167,7 +168,6 @@
     "Local.md",
     "practical.md",
     "dailies/2024-01-25.md",
-    "Welcome.md",
     "Wheel of the Year.canvas",
     "Brewfile.lock.json",
     "reference",
