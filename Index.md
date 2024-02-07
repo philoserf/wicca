@@ -1,7 +1,7 @@
 ---
 title: Index
 date created: 2024-01-04
-date modified: 2024-01-22
+date modified: 2024-02-07
 ---
 
 # Index
@@ -10,3 +10,4 @@ date modified: 2024-01-22
 - [[Wheel of the Year]]
 - [[Four Elements]]
 - [[Idea List]]
+- [[Glossary]]
