@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mår Ekkertsen.md",
+                "file": "dailies/2024-02-08.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mår Ekkertsen.md"
+                "file": "dailies/2024-02-08.md"
               }
             }
           },
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mår Ekkertsen.md",
+                "file": "dailies/2024-02-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mår Ekkertsen.md",
+                "file": "dailies/2024-02-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,6 +164,7 @@
   },
   "active": "b6a98da9f5de1c6b",
   "lastOpenFiles": [
+    "Mår Ekkertsen.md",
     "About.md",
     "Wheel of the Year.canvas",
     "dailies/2024-02-08.md",
@@ -171,7 +172,6 @@
     "Wheel of the Year.md",
     "Solitary.md",
     "Natural Cycles.md",
-    "Mår Ekkertsen.md",
     "Local.md",
     "Index.md",
     "Idea List.md",
