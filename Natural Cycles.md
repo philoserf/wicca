@@ -1,7 +1,7 @@
 ---
 title: Natural Cycles
 date created: 2024-01-12
-date modified: 2024-02-07
+date modified: 2024-02-08
 ---
 
 # Natural Cycles
@@ -15,8 +15,5 @@ Day: [[morning twilight]], [[sunrise]], [[noon]], [[sunset]], [[evening twilight
 Moon: [[new]], [[waxing]], [[full]], [[waning]]  
 Sun/Earth: [[Mabon|autumnal equinox]], [[Yule|winter solstice]], [[Ostara|vernal equinox]], [[Ostara|vernal equinox]]
 
-[[leaves]], [[flowers]], [[geese]], and [[robins]]
-
----
-
-related: [[Wheel of the Year]]
+[[leaves]], [[flowers]], [[geese]], and [[robins]]  
+sap running,

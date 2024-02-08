@@ -1,7 +1,7 @@
 ---
 title: Wheel of the Year
 date created: 2024-01-04
-date modified: 2024-01-22
+date modified: 2024-02-08
 ---
 
 # Wheel of the Year
@@ -14,7 +14,3 @@ date modified: 2024-01-22
 [[Litha]]  
 [[Lamas]]  
 [[Mabon]]
-
----
-
-related: [[Natural Cycles]]
