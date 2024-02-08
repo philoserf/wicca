@@ -11,14 +11,12 @@
             "id": "b6a98da9f5de1c6b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Wheel of the Year.canvas",
-                "viewState": {
-                  "x": 170,
-                  "y": 140,
-                  "zoom": -1.4925984825724967
-                }
+                "file": "Mår Ekkertsen.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -84,12 +82,47 @@
         "type": "tabs",
         "children": [
           {
+            "id": "d85bb4045b51c470",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "0d885977e8980a98",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "b7946cfbc42c4315",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91b427a6796c5969",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mår Ekkertsen.md"
+              }
+            }
+          },
+          {
             "id": "c0fbf0dbb98f0de9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wheel of the Year.canvas",
+                "file": "Mår Ekkertsen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,48 +139,17 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wheel of the Year.canvas",
+                "file": "Mår Ekkertsen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "0d885977e8980a98",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "91b427a6796c5969",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Wheel of the Year.canvas"
-              }
-            }
-          },
-          {
-            "id": "d85bb4045b51c470",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,6 +165,7 @@
   "active": "b6a98da9f5de1c6b",
   "lastOpenFiles": [
     "About.md",
+    "Wheel of the Year.canvas",
     "dailies/2024-02-08.md",
     "2024.md",
     "Wheel of the Year.md",
@@ -176,7 +179,6 @@
     "All is Broken and Twisted Despite Our Best Efforts.md",
     "Yule.md",
     "Wicca.md",
-    "Wheel of the Year.canvas",
     "Samhain.md",
     "Practical.md",
     "Ostara.md",
@@ -188,7 +190,6 @@
     "Eclectic.md",
     "Coven.md",
     "dailies/2024-01-12.md",
-    "dailies/2024-01-13.md",
     "Brewfile.lock.json",
     "reference",
     "journals",
