@@ -11,4 +11,3 @@ date modified: 2024-02-08
 - [[Natural Cycles]]
 - [[Four Elements]]
 - [[Idea List]]
-- [[Glossary]]
