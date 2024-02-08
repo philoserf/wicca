@@ -4,24 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ac8446d0865e7d77",
+        "id": "47a6d8ffea611c91",
         "type": "tabs",
         "children": [
           {
-            "id": "c869caeb0d824460",
+            "id": "838c4ba00c8139f1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "5d0568162d130eee",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.4"
+                "file": "dailies/2024-02-07.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -92,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "dailies/2024-02-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "dailies/2024-02-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "dailies/2024-02-07.md"
+              }
             }
           }
         ]
@@ -150,8 +149,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c869caeb0d824460",
+  "active": "838c4ba00c8139f1",
   "lastOpenFiles": [
+    "Natural Cycles.md",
     "dailies/2024-02-07.md",
     "Glossary.md",
     "dailies/2024-01-27.md",
@@ -177,7 +177,6 @@
     "Brighid.md",
     "Cailleach.md",
     "Beltaine.md",
-    "Idea List.md",
     "Wheel of the Year.canvas",
     "Brewfile.lock.json",
     "reference",

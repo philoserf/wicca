@@ -2,5 +2,19 @@
   "showInlineTitle": false,
   "promptDelete": false,
   "readableLineLength": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "mobileToolbarCommands": [
+    "editor:insert-embed",
+    "editor:toggle-code",
+    "editor:toggle-blockquote",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "editor:toggle-checklist-status",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:undo",
+    "editor:redo",
+    "command-palette:open",
+    "editor:configure-toolbar"
+  ]
 }

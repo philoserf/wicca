@@ -1,14 +1,14 @@
 ---
 title: Natural Cycles
 date created: 2024-01-12
-date modified: 2024-01-22
+date modified: 2024-02-07
 ---
 
 # Natural Cycles
 
-Heartbeats
-Breath
-Attention
+Heartbeats  
+Breath  
+Attention  
 Rhythms (circadian, ultradian)
 
 Day: [[morning twilight]], [[sunrise]], [[noon]], [[sunset]], [[evening twilight]], [[moonrise]], [[culmination]], [[moonset]]  

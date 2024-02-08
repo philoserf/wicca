@@ -6,19 +6,23 @@ date modified: 2024-02-07
 
 # Glossary
 
+Brownie:  
 Divine:  
-Sacred:  
+Dwarf:  
 Eclectic:  
-Wicca:  
-Witch:  
+Elf:  
+Gnome:  
+Goblin:  
+Heathen:
+Local:
 Magic(k):  
 Nisse:  
-Goblin:  
-Brownie:  
-Gnome:  
-Elf:  
-Dwarf:  
-Pixie:  
-Tomte:  
 Pagan:  
-Heathen:
+Pixie:  
+Power:
+Sacred:  
+Solitary:
+Tomte:  
+Truth:
+Wicca:  
+Witch:

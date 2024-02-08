@@ -7,5 +7,6 @@
   "templater-obsidian",
   "canvas-mindmap",
   "optimize-canvas-connections",
-  "omnisearch"
+  "omnisearch",
+  "obsidian-sort-and-permute-lines"
 ]
