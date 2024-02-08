@@ -1,14 +1,14 @@
 {
 	"nodes":[
 		{"id":"1411ca69752587bf","type":"file","file":"Wheel of the Year.md","x":-40,"y":-60,"width":400,"height":400},
-		{"id":"3bc6fd25dc7e6bd2","x":360,"y":-960,"width":400,"height":400,"type":"file","file":"Mabon.md"},
-		{"id":"5357821a960f66e9","x":880,"y":340,"width":400,"height":400,"type":"file","file":"Yule.md"},
-		{"id":"d03d3fd5cc2aa74e","x":880,"y":-460,"width":400,"height":400,"type":"file","file":"Samhain.md"},
-		{"id":"e2dcd51bd7788203","x":-940,"y":-460,"width":400,"height":400,"type":"file","file":"Litha.md"},
-		{"id":"f4d46c44f6de01f7","x":-940,"y":340,"width":400,"height":400,"type":"file","file":"Beltaine.md"},
-		{"id":"8d47104cabf9b148","x":-440,"y":-960,"width":400,"height":400,"type":"file","file":"Lamas.md"},
-		{"id":"356bf1a46fd4f651","x":-440,"y":840,"width":400,"height":400,"type":"file","file":"Ostara.md"},
-		{"id":"c3070ff96f1118e8","x":360,"y":840,"width":400,"height":400,"type":"file","file":"Imbolc.md"}
+		{"id":"3bc6fd25dc7e6bd2","type":"file","file":"Mabon.md","x":360,"y":-960,"width":400,"height":400},
+		{"id":"5357821a960f66e9","type":"file","file":"Yule.md","x":880,"y":340,"width":400,"height":400},
+		{"id":"d03d3fd5cc2aa74e","type":"file","file":"Samhain.md","x":880,"y":-460,"width":400,"height":400},
+		{"id":"e2dcd51bd7788203","type":"file","file":"Litha.md","x":-940,"y":-460,"width":400,"height":400},
+		{"id":"f4d46c44f6de01f7","type":"file","file":"Beltaine.md","x":-940,"y":340,"width":400,"height":400},
+		{"id":"8d47104cabf9b148","type":"file","file":"Lamas.md","x":-440,"y":-960,"width":400,"height":400},
+		{"id":"356bf1a46fd4f651","type":"file","file":"Ostara.md","x":-440,"y":840,"width":400,"height":400},
+		{"id":"c3070ff96f1118e8","type":"file","file":"Imbolc.md","x":360,"y":840,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"283e235f41bff19e","fromNode":"1411ca69752587bf","fromSide":"right","toNode":"d03d3fd5cc2aa74e","toSide":"left"},
@@ -18,6 +18,6 @@
 		{"id":"4ee6e3fd8dda346d","fromNode":"1411ca69752587bf","fromSide":"left","toNode":"f4d46c44f6de01f7","toSide":"right"},
 		{"id":"6569a1e778ed20b5","fromNode":"1411ca69752587bf","fromSide":"left","toNode":"e2dcd51bd7788203","toSide":"right"},
 		{"id":"9b70510e3bac6f8f","fromNode":"1411ca69752587bf","fromSide":"top","toNode":"8d47104cabf9b148","toSide":"bottom"},
-		{"id":"d86ec8915c2c48bc","fromNode":"1411ca69752587bf","fromSide":"top","toNode":"3bc6fd25dc7e6bd2","toSide":"bottom"}
+		{"id":"9b8a031b259f6d1c","fromNode":"1411ca69752587bf","fromSide":"top","toNode":"3bc6fd25dc7e6bd2","toSide":"bottom"}
 	]
 }
