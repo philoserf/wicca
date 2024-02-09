@@ -153,6 +153,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian42-text-transporter:Obsidian42 - Text Transporter": false,
       "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
