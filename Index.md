@@ -1,7 +1,7 @@
 ---
 title: Index
 date created: 2024-01-04
-date modified: 2024-02-08
+date modified: 2024-02-12
 ---
 
 # Index
@@ -11,3 +11,4 @@ date modified: 2024-02-08
 - [[Natural Cycles]]
 - [[Four Elements]]
 - [[Idea List]]
+- [[Glossary]]

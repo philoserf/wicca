@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailies/2024-02-08.md",
+                "file": "dailies/2024-02-13.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailies/2024-02-08.md"
+                "file": "dailies/2024-02-13.md"
               }
             }
           },
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dailies/2024-02-08.md",
+                "file": "dailies/2024-02-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dailies/2024-02-08.md",
+                "file": "dailies/2024-02-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,10 +165,15 @@
   },
   "active": "b6a98da9f5de1c6b",
   "lastOpenFiles": [
+    "dailies/2024-02-08.md",
+    "dailies/2024-02-13.md",
+    "dailies/2024-02-12.md",
+    "Glossary.md",
+    "dailies/2024-02-11.md",
+    "dailies/2024-02-09.md",
     "Mår Ekkertsen.md",
     "About.md",
     "Wheel of the Year.canvas",
-    "dailies/2024-02-08.md",
     "2024.md",
     "Wheel of the Year.md",
     "Solitary.md",
@@ -187,10 +192,6 @@
     "Litha.md",
     "Lamas.md",
     "Imbolc.md",
-    "Beltaine.md",
-    "Eclectic.md",
-    "Coven.md",
-    "dailies/2024-01-12.md",
     "Brewfile.lock.json",
     "reference",
     "journals",
