@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b775af3391f36030",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dailies/2024-03-03.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailies/2024-02-13.md"
+                "file": "dailies/2024-03-03.md"
               }
             }
           },
@@ -122,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dailies/2024-02-13.md",
+                "file": "dailies/2024-03-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dailies/2024-02-13.md",
+                "file": "dailies/2024-03-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,8 +177,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b6a98da9f5de1c6b",
+  "active": "b775af3391f36030",
   "lastOpenFiles": [
+    "dailies/2024-03-02.md",
+    "dailies/2024-02-29.md",
+    "dailies/2024-02-24.md",
+    "dailies/2024-02-26.md",
+    "dailies/2024.md",
+    "dailies/2024-02-22.md",
+    "dailies/2024-03-03.md",
+    "dailies/2024-02-21.md",
+    "dailies/2024-02-20.md",
+    "dailies/2024-02-19.md",
+    "dailies/2024-02-14.md",
     "dailies/2024-02-08.md",
     "dailies/2024-02-13.md",
     "dailies/2024-02-12.md",
@@ -181,17 +206,6 @@
     "Local.md",
     "Index.md",
     "Idea List.md",
-    "Four Elements.md",
-    "All is Broken and Twisted Despite Our Best Efforts.md",
-    "Yule.md",
-    "Wicca.md",
-    "Samhain.md",
-    "Practical.md",
-    "Ostara.md",
-    "Mabon.md",
-    "Litha.md",
-    "Lamas.md",
-    "Imbolc.md",
     "Brewfile.lock.json",
     "reference",
     "journals",
