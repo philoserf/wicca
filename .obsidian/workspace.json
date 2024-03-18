@@ -32,9 +32,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ebaa1caf57bf7339",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "dailies/2024-03-03.md"
-              }
+              "state": {}
             }
           },
           {
@@ -136,7 +144,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dailies/2024-03-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +160,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dailies/2024-03-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,8 +183,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b775af3391f36030",
+  "active": "ebaa1caf57bf7339",
   "lastOpenFiles": [
+    "dailies/2024-03-18.md",
+    "dailies/2024-03-05.md",
     "dailies/2024-03-02.md",
     "dailies/2024-02-29.md",
     "dailies/2024-02-24.md",
@@ -204,8 +212,6 @@
     "Solitary.md",
     "Natural Cycles.md",
     "Local.md",
-    "Index.md",
-    "Idea List.md",
     "Brewfile.lock.json",
     "reference",
     "journals",
