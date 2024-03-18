@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "47a6d8ffea611c91",
+        "id": "c73bb133c0a48b0c",
         "type": "tabs",
         "children": [
           {
-            "id": "b6a98da9f5de1c6b",
+            "id": "6e171051e21a631d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dailies/2024-02-13.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b775af3391f36030",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dailies/2024-03-03.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ebaa1caf57bf7339",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,8 +154,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ebaa1caf57bf7339",
+  "active": "6e171051e21a631d",
   "lastOpenFiles": [
+    "dailies/2024-02-13.md",
+    "dailies/2024-03-03.md",
     "dailies/2024-03-18.md",
     "dailies/2024-03-05.md",
     "dailies/2024-03-02.md",
@@ -193,13 +166,11 @@
     "dailies/2024-02-26.md",
     "dailies/2024.md",
     "dailies/2024-02-22.md",
-    "dailies/2024-03-03.md",
     "dailies/2024-02-21.md",
     "dailies/2024-02-20.md",
     "dailies/2024-02-19.md",
     "dailies/2024-02-14.md",
     "dailies/2024-02-08.md",
-    "dailies/2024-02-13.md",
     "dailies/2024-02-12.md",
     "Glossary.md",
     "dailies/2024-02-11.md",
