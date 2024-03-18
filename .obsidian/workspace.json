@@ -11,8 +11,13 @@
             "id": "6e171051e21a631d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "dailies/2024-03-18.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3c483c1c688d01ac",
@@ -106,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "dailies/2024-03-18.md"
+              }
             }
           },
           {
@@ -115,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "dailies/2024-03-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "dailies/2024-03-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,9 +164,9 @@
   },
   "active": "6e171051e21a631d",
   "lastOpenFiles": [
+    "dailies/2024-03-18.md",
     "dailies/2024-02-13.md",
     "dailies/2024-03-03.md",
-    "dailies/2024-03-18.md",
     "dailies/2024-03-05.md",
     "dailies/2024-03-02.md",
     "dailies/2024-02-29.md",
